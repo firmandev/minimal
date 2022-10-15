@@ -5,36 +5,33 @@ body {
   background-color: #4F619B;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:'aliceblue';
+  color:'white';
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color:#222;
   margin:0 0 20px;
-  color :"aliceblue"
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-  color : "aliceblue"
 }
 
 h1, h2, h3 {
   line-height:1.1;
-  color : "aliceblue"
 }
 
 h1 {
   font-size:28px;
-  color : "aliceblue"
 }
 
 h2 {
-  color : "aliceblue"
+  color:#393939;
 }
 
 h3, h4, h5, h6 {
-  color : "aliceblue"
+  color:#494949;
 }
 
 a {
@@ -49,7 +46,7 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color : "aliceblue";
+  color:#777;
   margin-top:-0.3em;
   display:block;
 }
